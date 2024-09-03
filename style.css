@@ -1,0 +1,145 @@
+.nombre{
+    color: black;
+    font-size: xx-large;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+body{
+    background-color: greenyellow;
+}
+.caja1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    right: 300px;
+    border-radius: 50%;
+}
+.caja1-1{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    bottom:10px;
+    left: 10px;
+}
+.caja2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    right: 600px;
+    border-radius: 50%;
+}
+.caja2-2{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+}
+.caja3{
+    width: 275px;
+    height: 275px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 130px;
+    right: 363px;
+}
+.caja3-ojo1{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.caja3-ojo2{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+.ojo1{ 
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    bottom:20px;
+    left: 20px;
+}
+.ojo2{ 
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    bottom:20px;
+    right: 20px;
+}
+.nari{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    right: 120px;
+}
+.caja4{
+    width: 450px;
+    height: 450px;
+    background-color:white;
+    border-radius: 50%;
+    position: absolute;
+    top: 400px;
+    right: 280px;
+}
+.caja5{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 400px;
+    right: 280px;
+}
+.caja6{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 400px;
+    right: 600px;
+}
+.caja7{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 700px;
+    right: 550px;
+}
+.caja8{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 700px;
+    right: 250px;
+}
